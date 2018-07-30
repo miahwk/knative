@@ -1,1 +1,1 @@
-FROM gcr.io/knative-releases/github.com/knative/serving/cmd/webhook:latest
+FROM gcr.io/knative-releases/github.com/knative/serving/cmd/webhook:v0.1.0
