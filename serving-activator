@@ -1,1 +1,1 @@
-FROM gcr.io/knative-releases/github.com/knative/serving/cmd/activator:v20180725-33a23b3
+FROM gcr.io/knative-releases/github.com/knative/serving/cmd/activator:v0.1.0
