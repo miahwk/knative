@@ -1,1 +1,1 @@
-FROM docker pull gcr.io/knative-releases/github.com/knative/serving/cmd/controller:v0.1.0
+FROM gcr.io/knative-releases/github.com/knative/serving/cmd/controller:v0.1.0
